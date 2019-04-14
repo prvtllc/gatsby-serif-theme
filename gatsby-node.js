@@ -8,7 +8,7 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           query {
-            services: allMarkdownRemark(
+            stocks: allMarkdownRemark(
               filter: { fileAbsolutePath: { regex: "/stocks/" } }
               sort: { fields: [frontmatter___date], order: DESC }
             ) {
