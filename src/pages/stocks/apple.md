@@ -9,6 +9,10 @@ Information about Apple Stock
 
 ## Latest Apple Stock Chart
 
+<!-- Start TC2000 widget -->
+<iframe width="400" noresize="noresize" scrolling="no" height="300" frameborder="0" src="https://widgets.tc2000.com/WidgetServer.ashx?id=139022"></iframe>
+<!-- END TC2000 Widget -->
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_b968e"></div>
