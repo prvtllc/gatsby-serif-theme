@@ -62,3 +62,22 @@ Headquarters: Cupertino, CA
 Sales: 1 (800) 692-7753
 Founders: Steve Jobs, Steve Wozniak, Ronald Wayne
 Subsidiaries: Beats Electronics, Apple Store, FileMaker, Beddit, and others.
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for AAPL</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "showIntervalTabs": true,
+  "width": 425,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "locale": "en",
+  "symbol": "NASDAQ:AAPL",
+  "interval": "1m",
+  "height": 450
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
