@@ -11,7 +11,7 @@ module.exports = {
     menuLinks: [
       {
         name: 'Stocks',
-        link: '/services',
+        link: '/stocks',
       },
       {
         name: 'Team',

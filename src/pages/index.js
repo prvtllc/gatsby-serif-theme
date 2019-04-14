@@ -49,7 +49,7 @@ const Home = (props) => {
             </div>
           ))}
           <div className="col-12 text-center">
-            <Link className="button button-primary mt-2" to="/services">
+            <Link className="button button-primary mt-2" to="/stocks">
               View All Stocks
             </Link>
           </div>
@@ -83,7 +83,7 @@ const Home = (props) => {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/services/" } }
+      filter: { fileAbsolutePath: { regex: "/stocks/" } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
