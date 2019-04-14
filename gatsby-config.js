@@ -10,8 +10,8 @@ module.exports = {
     },
     menuLinks: [
       {
-        name: 'Services',
-        link: '/services',
+        name: 'Stocks',
+        link: '/stocks',
       },
       {
         name: 'Team',
