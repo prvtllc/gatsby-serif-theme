@@ -34,7 +34,7 @@ const Home = (props) => {
       <div className="container pt-8 pt-md-10">
         <div className="row justify-content-start">
           <div className="col-12">
-            <h2 className="title-3 text-dark mb-3">Our Services</h2>
+            <h2 className="title-3 text-dark mb-3">Stocks</h2>
           </div>
           {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
@@ -50,7 +50,7 @@ const Home = (props) => {
           ))}
           <div className="col-12 text-center">
             <Link className="button button-primary mt-2" to="/services">
-              View All Services
+              View All Stocks
             </Link>
           </div>
         </div>
