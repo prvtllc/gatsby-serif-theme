@@ -1,8 +1,8 @@
 ---
-path: '/stocks/business-sales'
+path: '/services/business-sales'
 title: 'Business Sales'
 date: 2018-11-28T15:15:26+10:00
-image: '/stocks/default.png'
+image: '/services/default.png'
 featured: true
 draft: false
 ---

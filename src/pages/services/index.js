@@ -12,7 +12,7 @@ const Services = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Stocks</h1>
+              <h1>Services</h1>
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@ const Services = (props) => {
 export const query = graphql`
   query ServicesQuery {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/stocks/" } }
+      filter: { fileAbsolutePath: { regex: "/services/" } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
