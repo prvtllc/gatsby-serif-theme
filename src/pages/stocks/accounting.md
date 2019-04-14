@@ -11,28 +11,33 @@ Information about Apple Stock
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_ea92e"></div>
+  <div id="tradingview_b968e"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> </div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "autosize": true,
+  "width": 980,
+  "height": 610,
   "symbol": "NASDAQ:AAPL",
-  "interval": "D",
+  "interval": "60",
   "timezone": "Etc/UTC",
   "theme": "Light",
   "style": "2",
   "locale": "en",
   "toolbar_bg": "rgba(255, 255, 255, 1)",
-  "enable_publishing": false,
+  "enable_publishing": true,
   "hide_legend": true,
-  "save_image": false,
+  "withdateranges": true,
   "details": true,
   "news": [
+    "stocktwits",
     "headlines"
   ],
-  "container_id": "tradingview_ea92e"
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650",
+  "container_id": "tradingview_b968e"
 }
   );
   </script>
