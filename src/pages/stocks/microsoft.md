@@ -1,6 +1,6 @@
 ---
-path: '/stocks/apple'
-title: 'Apple'
+path: '/stocks/microsoft'
+title: 'Microsoft'
 date: 2019-04-14T12:33:46+10:00
 image: 'stocks/noun_591323.png'
 ---
