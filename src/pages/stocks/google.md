@@ -9,12 +9,12 @@ Information about Apple Stock
 
 ## Latest Apple Stock Chart
 
-<iframe height="300" width="400" src="https://ssltvc.forexprostools.com/?pair_ID=6408&height=480&width=650&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
+<iframe height="300" width="400" src="https://ssltvc.forexprostools.com/?pair_ID=100160&height=480&width=400&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
 
 ## Current Stock Price
 
 <!-- Start TC2000 widget -->
-<iframe width="320" noresize="noresize" scrolling="no" height="300" frameborder="0" src="https://widgets.tc2000.com/WidgetServer.ashx?id=139104"></iframe>
+<iframe width="-100" noresize="noresize" scrolling="no" height="20" frameborder="0" src="https://widgets.tc2000.com/WidgetServer.ashx?id=139108"></iframe>
 <!-- END TC2000 Widget -->
 
 ## Price With Moving Average Chart

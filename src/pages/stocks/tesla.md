@@ -9,7 +9,7 @@ Information about Apple Stock
 
 ## Latest Apple Stock Chart
 
-<iframe height="300" width="400" src="https://ssltvc.forexprostools.com/?pair_ID=6408&height=480&width=650&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
+<iframe height="300" width="400" src="https://ssltvc.forexprostools.com/?pair_ID=6435&height=480&width=400&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
 
 ## Current Stock Price
 
