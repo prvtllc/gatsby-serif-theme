@@ -9,6 +9,8 @@ Information about Apple Stock
 
 ## Latest Apple Stock Chart
 
+<iframe height="480" width="650" src="https://ssltvc.forexprostools.com/?pair_ID=6408&height=480&width=650&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
+
 <script src="http://markets.financialcontent.com/stocks/widget:aapl_rel2?Output=JS"></script>
 
 <!-- TradingView Widget BEGIN -->
