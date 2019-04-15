@@ -9,6 +9,8 @@ Information about Apple Stock
 
 ## Latest Apple Stock Chart
 
+<script src="http://markets.financialcontent.com/stocks/widget:aapl_rel2?Output=JS"></script>
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="technical-analysis"></div>
